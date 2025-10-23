@@ -8,6 +8,7 @@ Estou imerso no programa **[Cloud Engineer da Linux Foundation](https://training
 
 * 🔭 **Projeto Principal:** **[Home Lab Kubernetes (IaC)](https://github.com/taciosouzaoliveira/homelab-lfcs-cka)** - Cluster K8s automatizado com Vagrant e Libvirt/KVM.
 * 🐧 **Estudos de Linux:** **[Guia de Estudos LFCS](https://github.com/taciosouzaoliveira/SysAdmin)** - Anotações e laboratórios para a certificação.
+* 🚀 **Evolução com Ansible:** **[Home Lab K8s (De Shell Script para Ansible)](https://github.com/taciosouzaoliveira/ansible-kubernetes-lab)** - Demonstra a evolução de um provisionamento manual (Shell) para automação profissional com Ansible (IaC).
 * ☁️ **Estudos de Kubernetes:** **[Guia de Estudos CKA](https://github.com/taciosouzaoliveira/kubernetes)** - Manifestos e anotações para a certificação.
 * 🤖 **Projeto de IA em DevOps:** **[Guia de Estudos CKA com K8sGPT](https://github.com/taciosouzaoliveira/k8sgpt-cka-study-guide)** - Metodologia para usar IA no aprendizado de K8s.
 
