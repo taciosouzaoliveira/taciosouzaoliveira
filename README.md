@@ -27,7 +27,7 @@
 
 Sou um profissional em **transição de carreira planejada e de dedicação integral** para a área de **Engenharia de Nuvem e DevOps**.  
 
-Atualmente sou 🎓 aluno no programa no programa **[Cloud Engineer da Linux Foundation](https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/)** (LFCS & CKA), aplicando todo o conhecimento adquirido na **construção de projetos práticos e documentados**.  
+Atualmente sou 🎓 aluno do programa **[Cloud Engineer da Linux Foundation](https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/)** (LFCS & CKA), aplicando todo o conhecimento adquirido na **construção de projetos práticos e documentados**.  
 <p align="center">
   <a href="https://openprofile.dev/profile/taciosouza">
     <img src="https://img.shields.io/badge/Linux%20Foundation-Perfil%20Profissional-0078D4?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="Perfil Linux Foundation" />
