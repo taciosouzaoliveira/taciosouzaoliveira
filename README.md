@@ -51,11 +51,7 @@ Atualmente sou 🎓 aluno do programa **[Cloud Engineer da Linux Foundation](htt
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taciosouzaoliveira&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estatísticas GitHub" />
-</p>
+## 📊 Linguagens Mais Utilizadas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taciosouzaoliveira&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Linguagens mais usadas" />
