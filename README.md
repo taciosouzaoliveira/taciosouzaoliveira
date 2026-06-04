@@ -54,7 +54,19 @@ Atualmente sou 🎓 aluno do programa **[Cloud Engineer da Linux Foundation](htt
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taciosouzaoliveira&show_icons=true&theme=dark&count_private=true" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taciosouzaoliveira&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taciosouzaoliveira&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taciosouzaoliveira&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estatísticas GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taciosouzaoliveira&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+## 🏆 Badges & Certificações
+
+<p align="center">
+  <img src="https://img.shields.io/badge/In%20Progress-LFCS%20Certification-blue?style=flat-square" alt="LFCS" />
+  <img src="https://img.shields.io/badge/In%20Progress-CKA%20Certification-blue?style=flat-square" alt="CKA" />
+  <img src="https://img.shields.io/badge/Platform-Linux%20Foundation-yellow?style=flat-square" alt="Linux Foundation" />
 </p>
