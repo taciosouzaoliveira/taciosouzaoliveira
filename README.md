@@ -3,6 +3,9 @@
 
 
 <p align="center">
+  <a href="https://www.credly.com/badges/lfcs">
+    <img src="https://img.shields.io/badge/LFCS-Linux%20Foundation%20Certified-brightgreen?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="LFCS Certified" />
+  </a>
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   </a>
@@ -27,7 +30,7 @@
 
 Sou um profissional em **transição de carreira planejada e de dedicação integral** para a área de **Engenharia de Nuvem e DevOps**.  
 
-Atualmente sou 🎓 aluno do programa **[Cloud Engineer da Linux Foundation](https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/)** (LFCS & CKA), aplicando todo o conhecimento em projetos práticos de laboratório.
+Atualmente sou 🎓 aluno do programa **[Cloud Engineer da Linux Foundation](https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/)** (LFCS & CKA), aplicando todo o conhecimento em projetos práticos de infraestrutura como código e orquestração de contêineres.
 
 <p align="center">
   <a href="https://openprofile.dev/profile/taciosouza">
@@ -39,11 +42,11 @@ Atualmente sou 🎓 aluno do programa **[Cloud Engineer da Linux Foundation](htt
 ## 💼 Projetos e Estudos
 
 * 🔭 **Projeto Principal:** [**Home Lab Kubernetes (IaC)**](https://github.com/taciosouzaoliveira/homelab-lfcs-cka) — Cluster Kubernetes automatizado com **Vagrant** e **Libvirt/KVM**.  
-* ⚙️ **Evolução com Terraform & Ansible:** [**Kubernetes Home Lab (Terraform + Ansible)**](https://github.com/taciosouzaoliveira/kubernetes-homelab-terraform-ansible) — Evolução do projeto principal para **Infraestrutura como Código** profissional.
-* 🐧 **Estudos de Linux:** [**Guia de Estudos LFCS**](https://github.com/taciosouzaoliveira/SysAdmin) — Anotações, laboratórios e práticas voltadas à certificação **Linux Foundation Certified SysAdmin**.
-* 🚀 **Evolução com Ansible:** [**Home Lab K8s (De Shell Script para Ansible)**](https://github.com/taciosouzaoliveira/ansible-kubernetes-lab) — Demonstra a evolução de um provisionamento com scripts simples para uma solução robusta com **Ansible**.
+* ⚙️ **Evolução com Terraform & Ansible:** [**Kubernetes Home Lab (Terraform + Ansible)**](https://github.com/taciosouzaoliveira/kubernetes-homelab-terraform-ansible) — Evolução do projeto com IaC completo.
+* 🐧 **Estudos de Linux:** [**Guia de Estudos LFCS**](https://github.com/taciosouzaoliveira/SysAdmin) — Anotações, laboratórios e práticas voltadas à certificação **Linux Foundation Certified System Administrator**.
+* 🚀 **Evolução com Ansible:** [**Home Lab K8s (De Shell Script para Ansible)**](https://github.com/taciosouzaoliveira/ansible-kubernetes-lab) — Demonstra a evolução de um provisionamento manual para automatizado.
 * ☁️ **Estudos de Kubernetes:** [**Guia de Estudos CKA**](https://github.com/taciosouzaoliveira/kubernetes) — Manifestos, práticas e anotações para a certificação **Certified Kubernetes Administrator**.
-* 🤖 **IA aplicada em DevOps:** [**CKA Study Guide com K8sGPT**](https://github.com/taciosouzaoliveira/k8sgpt-cka-study-guide) — Uso de **IA como ferramenta de apoio** no aprendizado e troubleshooting em Kubernetes.
+* 🤖 **IA aplicada em DevOps:** [**CKA Study Guide com K8sGPT**](https://github.com/taciosouzaoliveira/k8sgpt-cka-study-guide) — Uso de **IA como ferramenta de apoio** no aprendizado e troubleshooting.
 
 ---
 
