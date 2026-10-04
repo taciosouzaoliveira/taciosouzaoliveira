@@ -45,4 +45,4 @@ Participante do [Cloud Engineer IT Professional Program](https://training.linuxf
 
 ### Contato
 
-[Kurumin Tecnologia](https://www.kurumintecnologia.com.br) · [LinkedIn](https://www.linkedin.com/in/taciosouzaoliveira) · [WhatsApp](https://wa.me/5579996441081) · contato@kurumintecnologia.com.br
+[Kurumin Tecnologia](https://www.kurumintecnologia.com.br) · [LinkedIn](https://www.linkedin.com/in/taciosouzaoliveira) · contato@kurumintecnologia.com.br
