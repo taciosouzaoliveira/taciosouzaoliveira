@@ -1,6 +1,6 @@
 ## Tácio Souza
 
-**Cloud Engineer · Consultor na [Kurumin Tecnologia](https://engineer.tacio.cloud/consultoria/)**
+**Cloud Engineer · Consultor na [Kurumin Tecnologia](https://www.kurumintecnologia.com.br)**
 
 Infraestrutura em ordem, sem derrubar o que já funciona.
 
