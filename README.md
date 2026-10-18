@@ -45,10 +45,10 @@
 | Projeto | O que tem lá |
 |---|---|
 | [kurumin-infra](https://github.com/taciosouzaoliveira/kurumin-infra) | Estudo de caso da Escola Kurumin: arquitetura ativo/reserva, segurança em camadas, recuperação testada e limitações documentadas |
-| [Escola Kurumin — estudo de caso público](https://github.com/taciosouzaoliveira/kurumin-infra) | Plataforma educacional privada; arquitetura, segurança e recuperação documentadas publicamente no Kurumin Infra |
 | [kubernetes-homelab-terraform-ansible](https://github.com/taciosouzaoliveira/kubernetes-homelab-terraform-ansible) | Cluster Kubernetes com 1 control plane e 2 workers, provisionado com Terraform e configurado com Ansible |
 | [homelab-lfcs-cka](https://github.com/taciosouzaoliveira/homelab-lfcs-cka) | Laboratório público Kubernetes com Vagrant e KVM/Libvirt para estudos LFCS e CKA |
 | [ansible-kubernetes-lab](https://github.com/taciosouzaoliveira/ansible-kubernetes-lab) | Evolução de um provisionamento em shell script para automação com Ansible |
+| [kubernetes](https://github.com/taciosouzaoliveira/kubernetes) | 20 laboratórios de administração de Kubernetes no formato da CKA |
 | [SysAdmin](https://github.com/taciosouzaoliveira/SysAdmin) | Laboratórios práticos de administração de sistemas Linux |
 
 ### ▸ Atividade
