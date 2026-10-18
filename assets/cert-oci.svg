@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="170" viewBox="0 0 228 170" role="img" aria-label="Oracle Cloud Infrastructure: Foundations, Architect e AI Foundations">
+  <defs><style>
+    .t{font-family:'Sora','Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace}
+    .pulso{animation:p 1.6s ease-in-out infinite}@keyframes p{50%{opacity:.35}}
+  </style></defs>
+  <g>
+    <rect x=".75" y=".75" width="226" height="168" rx="14" fill="#0b1730" stroke="#2ee6a6" stroke-width="1.5"/>
+    <text x="22" y="44" class="m" font-size="13" fill="#2ee6a6">✔ CERTIFICADO ×3</text>
+    <text x="22" y="92" class="t" font-size="34" font-weight="800" fill="#e8f0ff">OCI</text>
+    <text x="22" y="122" class="m" font-size="12" fill="#93abcc">Foundations · Architect</text>
+    <text x="22" y="142" class="m" font-size="12" fill="#93abcc">AI Foundations</text>
+    <text x="206" y="34" text-anchor="end" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="16" fill="#2ee6a6">↗</text>
+  </g>
+</svg>

@@ -36,9 +36,15 @@
 
 ### ▸ Certificações
 
-<p align="center"><img src="assets/certs.svg" alt="LFCS, OCI ×3 e AWS re/Start concluídos; CKA em 20/11; Kubestronaut a caminho" width="100%"></p>
+<p align="center">
+  <a href="https://www.credly.com/badges/e733e9a9-3d30-453c-a079-51df2024a113"><img src="assets/cert-lfcs.svg" alt="LFCS · ver badge no Credly" width="19%"></a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5A20812A71C71FB7669CA4D49F182FF7C3E71D2281A77A5BCD8899620E916C9D"><img src="assets/cert-oci.svg" alt="OCI · ver badge na Oracle" width="19%"></a>
+  <img src="assets/cert-restart.svg" alt="AWS re/Start" width="19%">
+  <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/"><img src="assets/cert-cka.svg" alt="CKA · prova em 20/11" width="19%"></a>
+  <a href="https://www.cncf.io/training/kubestronaut/"><img src="assets/cert-kubestronaut.svg" alt="Kubestronaut · a caminho" width="19%"></a>
+</p>
 
-<sub>LFCS verificável no <a href="https://www.credly.com/badges/e733e9a9-3d30-453c-a079-51df2024a113">Credly</a> · Participante do <a href="https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/">Cloud Engineer IT Professional Program</a> da Linux Foundation.</sub>
+<sub>Badges verificáveis: <a href="https://www.credly.com/badges/e733e9a9-3d30-453c-a079-51df2024a113">LFCS (Credly)</a> · OCI <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=65E5A1ABA6B66ACE85FC8A16E8BA6C182604B4210F4E44B1DF2383212F2C8FBD">Foundations</a>, <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5A20812A71C71FB7669CA4D49F182FF7C3E71D2281A77A5BCD8899620E916C9D">Architect</a> e <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C901BD9FB9EBBBE467EDDF1E9F0E38D7310084695C0C50536F9A9BBDE2AADF2F">AI Foundations</a> · Participante do <a href="https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/">Cloud Engineer IT Professional Program</a> da Linux Foundation.</sub>
 
 ### ▸ Projetos
 
