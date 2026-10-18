@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Terminal: quem é Tácio Souza, o que faz e o que está construindo">
+  <defs>
+    <style>
+      .m{font-family:'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace;font-size:17px}
+      .p{fill:#2ee6a6}.d{fill:#93abcc}.w{fill:#e8f0ff}.c{fill:#1eb8f0}.a{fill:#ffb547}.g{fill:#5d759c}
+      .l{opacity:0;animation:aparece .01s forwards}
+      @keyframes aparece{to{opacity:1}}
+      .cur{animation:pisca 1s steps(1) infinite}
+      @keyframes pisca{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="379" rx="14" fill="#081127" stroke="#1f3560"/>
+  <circle cx="26" cy="24" r="6.5" fill="#ff5f56"/><circle cx="48" cy="24" r="6.5" fill="#ffbd2e"/><circle cx="70" cy="24" r="6.5" fill="#27c93f"/>
+  <text x="600" y="29" class="m" font-size="14" fill="#5d759c" text-anchor="middle" style="font-size:14px">tacio@kurumin: ~ — bash</text>
+  <line x1="0" y1="46" x2="1200" y2="46" stroke="#1f3560"/>
+
+  <g class="m">
+    <text x="28" y="84" class="l" style="animation-delay:.2s"><tspan class="p">tacio@kurumin</tspan><tspan class="d">:~$ </tspan><tspan class="w">whoami</tspan></text>
+    <text x="28" y="112" class="l w" style="animation-delay:.8s">Tácio Souza · Cloud Engineer · consultor na Kurumin Tecnologia · TI desde 2009</text>
+
+    <text x="28" y="152" class="l" style="animation-delay:1.6s"><tspan class="p">tacio@kurumin</tspan><tspan class="d">:~$ </tspan><tspan class="w">cat foco.txt</tspan></text>
+    <text x="28" y="180" class="l d" style="animation-delay:2.2s">Servidores Linux seguros, backup que restaura de verdade, deploy automatizado,</text>
+    <text x="28" y="206" class="l d" style="animation-delay:2.4s">containers e Kubernetes. Tudo documentado e entregue para o time do cliente.</text>
+
+    <text x="28" y="246" class="l" style="animation-delay:3.2s"><tspan class="p">tacio@kurumin</tspan><tspan class="d">:~$ </tspan><tspan class="w">ls ~/construindo</tspan></text>
+    <text x="28" y="274" class="l" style="animation-delay:3.8s"><tspan class="c">escola-kurumin/</tspan><tspan x="240" class="g">trilhas LFCS e CKA com laboratório Linux no navegador</tspan></text>
+    <text x="28" y="300" class="l" style="animation-delay:4.0s"><tspan class="c">infra-ha/</tspan><tspan x="240" class="g">dois nós ativo/reserva, restauração completa em ~30 min</tspan></text>
+    <text x="28" y="326" class="l" style="animation-delay:4.2s"><tspan class="c">kubestronaut/</tspan><tspan x="240" class="g">LFCS ✔ · CKA em 20/11 → Kubernetes em 3 nós</tspan></text>
+
+    <text x="28" y="360" class="l" style="animation-delay:5s"><tspan class="p">tacio@kurumin</tspan><tspan class="d">:~$ </tspan><tspan class="cur c">█</tspan></text>
+  </g>
+</svg>

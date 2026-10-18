@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tácio Souza · Cloud Engineer · Consultor na Kurumin Tecnologia">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#0f2350"/>
+      <stop offset="1" stop-color="#050a1a"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#0e1c3a" stroke-width="1"/>
+    </pattern>
+    <style>
+      .t{font-family:'Sora','Segoe UI',Helvetica,Arial,sans-serif}
+      .m{font-family:'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace}
+      .cur{animation:pisca 1s steps(1) infinite}
+      @keyframes pisca{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity=".7"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#1f3560"/>
+
+  <!-- marca -->
+  <text x="56" y="92" class="t" font-size="44" font-weight="800" fill="#1eb8f0">K<tspan fill="#2ee6a6">.</tspan></text>
+  <text x="104" y="86" class="m" font-size="15" fill="#93abcc" letter-spacing="2">KURUMIN TECNOLOGIA</text>
+
+  <text x="56" y="160" class="t" font-size="52" font-weight="800" fill="#e8f0ff">Tácio Souza</text>
+  <text x="56" y="200" class="t" font-size="24" font-weight="600" fill="#1eb8f0">Cloud Engineer <tspan fill="#93abcc">·</tspan> <tspan fill="#2ee6a6">Consultor Kurumin Tecnologia</tspan></text>
+  <text x="56" y="244" class="m" font-size="16" fill="#93abcc">Linux · Kubernetes · DevOps · Automação · Alta disponibilidade</text>
+
+  <!-- mini terminal -->
+  <g transform="translate(770,58)">
+    <rect width="374" height="184" rx="12" fill="#081127" stroke="#1f3560"/>
+    <circle cx="20" cy="18" r="5" fill="#ff5f56"/><circle cx="38" cy="18" r="5" fill="#ffbd2e"/><circle cx="56" cy="18" r="5" fill="#27c93f"/>
+    <text x="187" y="22" class="m" font-size="12" fill="#5d759c" text-anchor="middle">tacio@kurumin: ~</text>
+    <line x1="0" y1="34" x2="374" y2="34" stroke="#1f3560"/>
+    <text x="18" y="62" class="m" font-size="14"><tspan fill="#2ee6a6">tacio@kurumin</tspan><tspan fill="#93abcc">:~$ </tspan><tspan fill="#e8f0ff">kubectl get certs</tspan></text>
+    <text x="18" y="88" class="m" font-size="13" fill="#5d759c">NAME           STATUS</text>
+    <text x="18" y="108" class="m" font-size="13" fill="#e8f0ff">LFCS           <tspan fill="#2ee6a6">Ready</tspan></text>
+    <text x="18" y="128" class="m" font-size="13" fill="#e8f0ff">OCI x3         <tspan fill="#2ee6a6">Ready</tspan></text>
+    <text x="18" y="148" class="m" font-size="13" fill="#e8f0ff">CKA            <tspan fill="#ffb547">Pending</tspan></text>
+    <text x="18" y="172" class="m" font-size="14"><tspan fill="#2ee6a6">tacio@kurumin</tspan><tspan fill="#93abcc">:~$ </tspan><tspan class="cur" fill="#1eb8f0">█</tspan></text>
+  </g>
+</svg>

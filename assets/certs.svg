@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Certificações: LFCS, OCI x3, AWS re/Start concluídas; CKA agendada para 20/11; Kubestronaut em andamento">
+  <defs><style>
+    .t{font-family:'Sora','Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace}
+    .pulso{animation:p 1.6s ease-in-out infinite}@keyframes p{50%{opacity:.35}}
+  </style></defs>
+  <g transform="translate(0,0)">
+    <rect x=".75" y=".75" width="226" height="168" rx="14" fill="#0b1730" stroke="#2ee6a6" stroke-width="1.5"/>
+    <text x="22" y="44" class="m" font-size="13" fill="#2ee6a6">✔ CERTIFICADO</text>
+    <text x="22" y="92" class="t" font-size="34" font-weight="800" fill="#e8f0ff">LFCS</text>
+    <text x="22" y="122" class="m" font-size="12" fill="#93abcc">Linux Foundation</text>
+    <text x="22" y="142" class="m" font-size="12" fill="#93abcc">System Administrator</text>
+  </g>
+  <g transform="translate(243,0)">
+    <rect x=".75" y=".75" width="226" height="168" rx="14" fill="#0b1730" stroke="#2ee6a6" stroke-width="1.5"/>
+    <text x="22" y="44" class="m" font-size="13" fill="#2ee6a6">✔ CERTIFICADO ×3</text>
+    <text x="22" y="92" class="t" font-size="34" font-weight="800" fill="#e8f0ff">OCI</text>
+    <text x="22" y="122" class="m" font-size="12" fill="#93abcc">Foundations · Architect</text>
+    <text x="22" y="142" class="m" font-size="12" fill="#93abcc">AI Foundations</text>
+  </g>
+  <g transform="translate(486,0)">
+    <rect x=".75" y=".75" width="226" height="168" rx="14" fill="#0b1730" stroke="#2ee6a6" stroke-width="1.5"/>
+    <text x="22" y="44" class="m" font-size="13" fill="#2ee6a6">✔ FORMAÇÃO</text>
+    <text x="22" y="92" class="t" font-size="34" font-weight="800" fill="#e8f0ff">re/Start</text>
+    <text x="22" y="122" class="m" font-size="12" fill="#93abcc">AWS · formação prática</text>
+    <text x="22" y="142" class="m" font-size="12" fill="#93abcc">Linux · redes · nuvem</text>
+  </g>
+  <g transform="translate(729,0)">
+    <rect x=".75" y=".75" width="226" height="168" rx="14" fill="#0b1730" stroke="#ffb547" stroke-width="1.5"/>
+    <circle class="pulso" cx="28" cy="39" r="5" fill="#ffb547"/>
+    <text x="42" y="44" class="m" font-size="13" fill="#ffb547">PROVA 20/11</text>
+    <text x="22" y="92" class="t" font-size="34" font-weight="800" fill="#e8f0ff">CKA</text>
+    <text x="22" y="122" class="m" font-size="12" fill="#93abcc">Certified Kubernetes</text>
+    <text x="22" y="142" class="m" font-size="12" fill="#93abcc">Administrator</text>
+  </g>
+  <g transform="translate(972,0)">
+    <rect x=".75" y=".75" width="226" height="168" rx="14" fill="#0b1730" stroke="#1eb8f0" stroke-width="1.5" stroke-dasharray="6 5"/>
+    <text x="22" y="44" class="m" font-size="13" fill="#1eb8f0">→ A CAMINHO</text>
+    <text x="22" y="92" class="t" font-size="26" font-weight="800" fill="#e8f0ff">Kubestronaut</text>
+    <text x="22" y="122" class="m" font-size="12" fill="#93abcc">CKA · CKAD · CKS</text>
+    <text x="22" y="142" class="m" font-size="12" fill="#93abcc">KCNA · KCSA</text>
+  </g>
+</svg>
