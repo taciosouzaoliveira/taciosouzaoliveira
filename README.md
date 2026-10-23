@@ -14,7 +14,7 @@
 <p align="center"><img src="assets/terminal.svg" alt="Terminal: whoami, foco e o que estou construindo" width="100%"></p>
 
 > **Infraestrutura em ordem, sem derrubar o que já funciona.**
-> Profissional de TI desde 2009, pós-graduado em Cloud Computing e em Redes de Computadores. Ajudo pequenas e médias empresas a colocar servidores, backup e deploy em ordem, e, quando faz sentido, levar tudo para containers e Kubernetes. Este GitHub é o meu laboratório público: as mesmas práticas que aplico com clientes, abertas e documentadas.
+> Comecei em TI como técnico de suporte em 2005 e atuo com infraestrutura Linux e cloud desde 2022. Pós-graduado em Cloud Computing e em Redes de Computadores. Ajudo pequenas e médias empresas a colocar servidores, backup e deploy em ordem, e, quando faz sentido, levar tudo para containers e Kubernetes. Este GitHub é o meu laboratório público: as mesmas práticas que aplico com clientes, abertas e documentadas.
 
 ### ▸ Stack
 
