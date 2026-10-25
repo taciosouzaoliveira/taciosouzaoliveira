@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.kurumintecnologia.com.br"><img src="assets/btn-site.svg" alt="Kurumin Tecnologia" height="48"></a>
   <a href="https://escola.kurumintecnologia.com.br"><img src="assets/btn-escola.svg" alt="Escola Kurumin" height="48"></a>
+  <a href="https://sururu.kurumintecnologia.com.br"><img src="assets/btn-sururu.svg" alt="Sururu Linux" height="48"></a>
   <a href="https://www.linkedin.com/in/taciosouzaoliveira"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="48"></a>
   <a href="https://www.amazon.com.br/dp/B0HMJHMCK3"><img src="assets/btn-livro.svg" alt="Livro Kubernetes do Zero à CKA" height="48"></a>
   <a href="https://engineer.tacio.cloud"><img src="assets/btn-lab.svg" alt="Laboratório" height="48"></a>
@@ -50,6 +51,7 @@
 
 | Projeto | O que tem lá |
 |---|---|
+| [sururu-linux](https://github.com/kurumintecnologia/sururu-linux) | Distribuição Linux brasileira (Debian 13) para aprender Linux, containers e Kubernetes; pipeline no GitHub Actions que constrói, testa, gera SBOM, assina com cosign e publica a ISO |
 | [kurumin-infra](https://github.com/taciosouzaoliveira/kurumin-infra) | Estudo de caso da Escola Kurumin: arquitetura ativo/reserva, segurança em camadas, recuperação testada e limitações documentadas |
 | [kubernetes-homelab-terraform-ansible](https://github.com/taciosouzaoliveira/kubernetes-homelab-terraform-ansible) | Cluster Kubernetes com 1 control plane e 2 workers, provisionado com Terraform e configurado com Ansible |
 | [homelab-lfcs-cka](https://github.com/taciosouzaoliveira/homelab-lfcs-cka) | Laboratório público Kubernetes com Vagrant e KVM/Libvirt para estudos LFCS e CKA |
