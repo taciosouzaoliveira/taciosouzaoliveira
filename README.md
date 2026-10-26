@@ -17,7 +17,7 @@
 > **Infraestrutura em ordem, sem derrubar o que já funciona.**
 > Profissional de Infraestrutura, Linux e DevOps/Cloud, certificado LFCS e focado em Kubernetes. CKA agendada para 20/11/2026, próximo passo rumo ao Kubestronaut da CNCF.
 >
-> Comecei em tecnologia em 2004, como técnico de suporte. Desde 2009 trabalho na Embrapa, onde desenvolvi a rotina de procedimentos, controle de qualidade e documentação que aplico à operação de ambientes tecnológicos. Pós-graduado em Cloud Computing e em Redes de Computadores. Como fundador da Kurumin Tecnologia, desenvolvo soluções em Linux, automação, Kubernetes, backup, CI/CD e observabilidade. Este GitHub é o meu laboratório público: as mesmas práticas, abertas e documentadas.
+> Comecei em tecnologia em 2004, como técnico de suporte. Pós-graduado em Cloud Computing e em Redes de Computadores. Como fundador da Kurumin Tecnologia, desenvolvo soluções em Linux, automação, Kubernetes, backup, CI/CD e observabilidade. Este GitHub é o meu laboratório público: as mesmas práticas, abertas e documentadas.
 
 ### ▸ Stack
 
