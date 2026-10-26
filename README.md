@@ -66,7 +66,7 @@
 ### ▸ Comunidade e software livre
 
 - **Documentação oficial do Kubernetes em pt-br:** contribuo com a tradução para português brasileiro no [kubernetes/website](https://github.com/kubernetes/website) ([primeiro PR, em revisão](https://github.com/kubernetes/website/pull/58354)).
-- **FLISOL Palmeira dos Índios/AL:** coordenei a edição de 2016 ([registro no flisol.info](https://flisol.info/FLISOL2016/Brasil/PalmeiraDosIndios)) e participo da organização da edição de 2027.
+- **FLISOL Palmeira dos Índios/AL:** coordenei a edição de 2015, onde também palestrei sobre DD-WRT ([registro no flisol.info](https://flisol.info/FLISOL2015/Brasil/PalmeiradosIndios)) e participo da organização da edição de 2027.
 
 ### ▸ Atividade
 
