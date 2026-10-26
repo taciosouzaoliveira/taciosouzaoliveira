@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Tácio Souza · Cloud Engineer · Consultor na Kurumin Tecnologia" width="100%">
+  <img src="assets/banner.svg" alt="Tácio Souza · DevOps & Cloud Engineer · Fundador da Kurumin Tecnologia" width="100%">
 </p>
 
 <p align="center">
@@ -15,7 +15,9 @@
 <p align="center"><img src="assets/terminal.svg" alt="Terminal: whoami, foco e o que estou construindo" width="100%"></p>
 
 > **Infraestrutura em ordem, sem derrubar o que já funciona.**
-> Comecei em TI como técnico de suporte em 2005 e atuo com infraestrutura Linux e cloud desde 2022. Pós-graduado em Cloud Computing e em Redes de Computadores. Ajudo pequenas e médias empresas a colocar servidores, backup e deploy em ordem, e, quando faz sentido, levar tudo para containers e Kubernetes. Este GitHub é o meu laboratório público: as mesmas práticas que aplico com clientes, abertas e documentadas.
+> Profissional de Infraestrutura, Linux e DevOps/Cloud, certificado LFCS e focado em Kubernetes. CKA agendada para 20/11/2026, próximo passo rumo ao Kubestronaut da CNCF.
+>
+> Comecei em tecnologia em 2004, como técnico de suporte. Desde 2009 trabalho na Embrapa, onde desenvolvi a rotina de procedimentos, controle de qualidade e documentação que aplico à operação de ambientes tecnológicos. Pós-graduado em Cloud Computing e em Redes de Computadores. Como fundador da Kurumin Tecnologia, desenvolvo soluções em Linux, automação, Kubernetes, backup, CI/CD e observabilidade. Este GitHub é o meu laboratório público: as mesmas práticas, abertas e documentadas.
 
 ### ▸ Stack
 
@@ -25,6 +27,7 @@
   <img src="https://img.shields.io/badge/Red_Hat-050a1a?style=for-the-badge&logo=redhat&logoColor=2ee6a6" alt="Red Hat">
   <img src="https://img.shields.io/badge/Bash-050a1a?style=for-the-badge&logo=gnubash&logoColor=1eb8f0" alt="Bash">
   <img src="https://img.shields.io/badge/Ansible-050a1a?style=for-the-badge&logo=ansible&logoColor=2ee6a6" alt="Ansible">
+  <img src="https://img.shields.io/badge/Terraform-050a1a?style=for-the-badge&logo=terraform&logoColor=1eb8f0" alt="Terraform">
   <img src="https://img.shields.io/badge/Docker-050a1a?style=for-the-badge&logo=docker&logoColor=1eb8f0" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-050a1a?style=for-the-badge&logo=kubernetes&logoColor=2ee6a6" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Argo_CD-050a1a?style=for-the-badge&logo=argo&logoColor=1eb8f0" alt="Argo CD">
@@ -33,6 +36,7 @@
   <img src="https://img.shields.io/badge/Grafana-050a1a?style=for-the-badge&logo=grafana&logoColor=2ee6a6" alt="Grafana">
   <img src="https://img.shields.io/badge/Oracle_Cloud-050a1a?style=for-the-badge&logo=oracle&logoColor=1eb8f0" alt="Oracle Cloud">
   <img src="https://img.shields.io/badge/AWS-050a1a?style=for-the-badge&logo=amazonwebservices&logoColor=2ee6a6" alt="AWS">
+  <img src="https://img.shields.io/badge/Jira-050a1a?style=for-the-badge&logo=jira&logoColor=2ee6a6" alt="Jira">
 </p>
 
 ### ▸ Certificações
@@ -45,7 +49,7 @@
   <a href="https://www.cncf.io/training/kubestronaut/"><img src="assets/cert-kubestronaut.svg" alt="Kubestronaut · a caminho" width="19%"></a>
 </p>
 
-<sub>Badges verificáveis: <a href="https://www.credly.com/badges/e733e9a9-3d30-453c-a079-51df2024a113">LFCS (Credly)</a> · OCI <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=65E5A1ABA6B66ACE85FC8A16E8BA6C182604B4210F4E44B1DF2383212F2C8FBD">Foundations</a>, <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5A20812A71C71FB7669CA4D49F182FF7C3E71D2281A77A5BCD8899620E916C9D">Architect</a> e <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C901BD9FB9EBBBE467EDDF1E9F0E38D7310084695C0C50536F9A9BBDE2AADF2F">AI Foundations</a> · <a href="assets/certificados/aws-restart.png">AWS re/Start (Escola da Nuvem, 181 h)</a> · Participante do <a href="https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/">Cloud Engineer IT Professional Program</a> da Linux Foundation.</sub>
+<sub>Badges verificáveis: <a href="https://www.credly.com/badges/e733e9a9-3d30-453c-a079-51df2024a113">LFCS (Credly)</a> · OCI <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=65E5A1ABA6B66ACE85FC8A16E8BA6C182604B4210F4E44B1DF2383212F2C8FBD">Foundations</a>, <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=5A20812A71C71FB7669CA4D49F182FF7C3E71D2281A77A5BCD8899620E916C9D">Architect</a> e <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C901BD9FB9EBBBE467EDDF1E9F0E38D7310084695C0C50536F9A9BBDE2AADF2F">AI Foundations</a> · <a href="assets/certificados/aws-restart.png">AWS re/Start (Escola da Nuvem, 181 h)</a> · Curso LFS162 Introduction to DevOps and SRE (Linux Foundation) · Participante do <a href="https://training.linuxfoundation.org/training/cloud-engineer-itprofessionalprogram/">Cloud Engineer IT Professional Program</a> da Linux Foundation.</sub>
 
 ### ▸ Projetos
 
@@ -58,6 +62,11 @@
 | [ansible-kubernetes-lab](https://github.com/taciosouzaoliveira/ansible-kubernetes-lab) | Evolução de um provisionamento em shell script para automação com Ansible |
 | [kubernetes](https://github.com/taciosouzaoliveira/kubernetes) | 20 laboratórios de administração de Kubernetes no formato da CKA |
 | [SysAdmin](https://github.com/taciosouzaoliveira/SysAdmin) | Laboratórios práticos de administração de sistemas Linux |
+
+### ▸ Comunidade e software livre
+
+- **Documentação oficial do Kubernetes em pt-br:** contribuo com a tradução para português brasileiro no [kubernetes/website](https://github.com/kubernetes/website) ([primeiro PR, em revisão](https://github.com/kubernetes/website/pull/58354)).
+- **FLISOL Palmeira dos Índios/AL:** coordenei a edição de 2016 ([registro no flisol.info](https://flisol.info/FLISOL2016/Brasil/PalmeiraDosIndios)) e participo da organização da edição de 2027.
 
 ### ▸ Atividade
 
