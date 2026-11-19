@@ -3,7 +3,7 @@
 </defs>
   <rect x=".5" y=".5" width="1199" height="477" rx="14" fill="#050a1a" stroke="#1f3560"/>
   <text x="32" y="50" font-family="'Sora','Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="800" fill="#e8f0ff">Commits por projeto</text>
-  <text x="32" y="76" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="13" fill="#93abcc">222 commits em 17 repositórios públicos · atualizado em 18/11/2026</text>
+  <text x="32" y="76" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="13" fill="#93abcc">222 commits em 17 repositórios públicos · atualizado em 19/11/2026</text>
   <text x="32" y="126" font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-size="15" fill="#e8f0ff">SysAdmin</text>
   <rect x="360" y="110" width="700" height="22" rx="6" fill="#0b1730"/>
   <rect x="360" y="110" width="700.0" height="22" rx="6" fill="url(#g)"><animate attributeName="width" from="0" to="700.0" dur="1.2s" begin="0.15s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
